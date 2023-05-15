@@ -1,0 +1,2 @@
+DOMAIN-KEYWORD, clashroyale, CR
+DOMAIN-KEYWORD, supercell, CR
