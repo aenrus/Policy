@@ -22,9 +22,7 @@ payload:
   - DOMAIN-SUFFIX,webpubsub.azure.com
   - DOMAIN-KEYWORD,openaicom-api-
   - DOMAIN-SUFFIX,azurefd.net
-  - DOMAIN,chatgpt.livekit.cloud
-  - DOMAIN,host.livekit.cloud
-  - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN,openai.com.cdn.cloudflare.net
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
@@ -44,7 +42,14 @@ payload:
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN-SUFFIX,cdn.openaimerge.com
   - DOMAIN,ws.chatgpt.com
- 
+
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,imgix.net
 
 # ===== Apple Intelligence / Siri / Relay =====
   - DOMAIN,guzzoni.apple.com
