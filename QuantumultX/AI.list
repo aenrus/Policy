@@ -1,0 +1,106 @@
+# ===== ChatGPT / OpenAI =====
+AND, ((DOMAIN-KEYWORD,chatgpt-async-webps-prod-),(DOMAIN-SUFFIX,webpubsub.azure.com)), AI
+AND, ((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net)), AI
+DOMAIN, chatgpt.livekit.cloud, AI
+DOMAIN, host.livekit.cloud, AI
+DOMAIN-SUFFIX, turn.livekit.cloud, AI
+DOMAIN, openai.com.cdn.cloudflare.net, AI
+DOMAIN, openaiapi-site.azureedge.net, AI
+DOMAIN, openaicomproductionae4b.blob.core.windows.net, AI
+DOMAIN, production-openaicom-storage.azureedge.net, AI
+DOMAIN-SUFFIX, chat.com, AI
+DOMAIN-SUFFIX, chatgpt.com, AI
+DOMAIN-SUFFIX, oaistatic.com, AI
+DOMAIN-SUFFIX, oaiusercontent.com, AI
+DOMAIN-SUFFIX, openai.com, AI
+DOMAIN-SUFFIX, sora.com, AI
+DOMAIN, chat.openai.com, AI
+DOMAIN, auth0.openai.com, AI
+DOMAIN-SUFFIX, oaistatsig.com, AI
+DOMAIN-SUFFIX, ct.sendgrid.net, AI
+DOMAIN-SUFFIX, intercom.io, AI
+DOMAIN-SUFFIX, intercomcdn.com, AI
+DOMAIN, challenges.cloudflare.com, AI
+DOMAIN-SUFFIX, cdn.openaimerge.com, AI
+DOMAIN, ws.chatgpt.com, AI
+
+# ===== Apple Intelligence / Siri / Relay =====
+DOMAIN, guzzoni.apple.com, AI
+DOMAIN, mask-api.fe.apple-dns.net, AI
+DOMAIN, mask-api.icloud.com, AI
+DOMAIN, mask-t.apple-dns.net, AI
+DOMAIN, mask.apple-dns.net, AI
+DOMAIN-SUFFIX, smoot.apple.com, AI
+DOMAIN-SUFFIX, apple-relay.apple.com, AI
+DOMAIN-SUFFIX, apple-relay.cloudflare.com, AI
+DOMAIN-SUFFIX, apple-relay.fastly-edge.com, AI
+DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net, AI
+DOMAIN-SUFFIX, apple-relay.akamaized.net, AI
+DOMAIN-SUFFIX, cp4.cloudflare.com, AI
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com, AI
+DOMAIN-SUFFIX, gateway.icloud.com, AI
+DOMAIN-SUFFIX, ls.apple.com, AI
+DOMAIN-SUFFIX, mask-h2.icloud.com, AI
+DOMAIN-SUFFIX, mask.icloud.com, AI
+DOMAIN-SUFFIX, apps.mzstatic.com, AI
+DOMAIN-KEYWORD, siri, AI
+
+# ===== GitHub Copilot =====
+DOMAIN, api.githubcopilot.com, AI
+DOMAIN, copilot-proxy.githubusercontent.com, AI
+DOMAIN, copilot.microsoft.com, AI
+DOMAIN, sydney.bing.com, AI
+DOMAIN-SUFFIX, githubcopilot.com, AI
+
+# ===== Google Gemini =====
+DOMAIN, ai.google.dev, AI
+DOMAIN, aida.googleapis.com, AI
+DOMAIN, aistudio.google.com, AI
+DOMAIN, alkalicore-pa.clients6.google.com, AI
+DOMAIN, alkalimakersuite-pa.clients6.google.com, AI
+DOMAIN, bard.google.com, AI
+DOMAIN-SUFFIX, deepmind.com, AI
+DOMAIN-SUFFIX, deepmind.google, AI
+DOMAIN, geller-pa.googleapis.com, AI
+DOMAIN, gemini.google.com, AI
+DOMAIN-SUFFIX, generativeai.google, AI
+DOMAIN, generativelanguage.googleapis.com, AI
+DOMAIN, makersuite.google.com, AI
+DOMAIN, proactivebackend-pa.googleapis.com, AI
+
+# ===== Anthropic Claude =====
+DOMAIN-SUFFIX, anthropic.com, AI
+DOMAIN-SUFFIX, claude.ai, AI
+DOMAIN-SUFFIX, claude.com, AI
+DOMAIN-SUFFIX, clau.de, AI
+DOMAIN-SUFFIX, claudeusercontent.com
+IP-CIDR, 160.79.104.0/23, no-resolve
+IP-CIDR6, 2607:6bc0::/48, no-resolve
+
+# ===== JetBrains AI =====
+DOMAIN-SUFFIX, grazie.ai, AI
+DOMAIN-SUFFIX, grazie.aws.intellij.net, AI
+DOMAIN-SUFFIX, jetbrains.ai, AI
+
+# ===== Meta AI =====
+DOMAIN, imagine.meta.com, AI
+DOMAIN-SUFFIX, meta.ai, AI
+
+# ===== Perplexity =====
+DOMAIN-SUFFIX, pplx.ai, AI
+DOMAIN-SUFFIX, perplexity.ai, AI
+DOMAIN-SUFFIX, perplexity.com, AI
+
+# ===== Mistral AI =====
+DOMAIN, chat.mistral.ai, AI
+DOMAIN, console.mistral.ai, AI
+DOMAIN-SUFFIX, mistral.ai, AI
+
+# ===== Grok =====
+DOMAIN, api.x.ai, AI
+DOMAIN-SUFFIX, x.ai, AI
+DOMAIN-SUFFIX, grok.com, AI
+
+# ===== Trae AI =====
+DOMAIN, trae-api-sg.mchost.guru, AI
+DOMAIN-SUFFIX, trae.ai, AI
