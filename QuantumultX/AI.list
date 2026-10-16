@@ -1,4 +1,4 @@
-HOST, api.statsig.com
+# HOST, api.statsig.com
 HOST, browser-intake-datadoghq.com
 HOST, static.cloudflareinsights.com
 HOST-SUFFIX, algolia.net
