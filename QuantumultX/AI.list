@@ -75,7 +75,7 @@ HOST-SUFFIX, anthropic.com, AI
 HOST-SUFFIX, claude.ai, AI
 HOST-SUFFIX, claude.com, AI
 HOST-SUFFIX, clau.de, AI
-HOST-SUFFIX, claudeusercontent.com
+HOST-SUFFIX, claudeusercontent.com, AI
 IP-CIDR, 160.79.104.0/23, no-resolve
 IP-CIDR6, 2607:6bc0::/48, no-resolve
 
