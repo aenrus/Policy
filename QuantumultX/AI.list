@@ -43,13 +43,13 @@ HOST, challenges.cloudflare.com, AI
 HOST-SUFFIX, cdn.openaimerge.com, AI
 HOST, ws.chatgpt.com, AI
 
-HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-HOST-SUFFIX,ai.com
-HOST-SUFFIX,oaistatic.com
-HOST-SUFFIX,oaiusercontent.com
-HOST-SUFFIX,openai.com
-HOST-SUFFIX,azureedge.net
-HOST-SUFFIX,imgix.net
+HOST, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+HOST-SUFFIX, ai.com
+HOST-SUFFIX, oaistatic.com
+HOST-SUFFIX, oaiusercontent.com
+HOST-SUFFIX, openai.com
+HOST-SUFFIX, azureedge.net
+HOST-SUFFIX, imgix.net
 
 # ===== Apple Intelligence / Siri / Relay =====
 HOST, guzzoni.apple.com, AI
